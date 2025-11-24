@@ -1,5 +1,5 @@
 {
-  "originHash" : "3eca207d9cede269494242e6ed06445e390e0a52ba61fc559edcf99fdb1e910b",
+  "originHash" : "6371ce92cbf746b36575450378f0d10a24f08ee1c315435f7d89ad2331a41fe4",
   "pins" : [
     {
       "identity" : "localization",
@@ -42,8 +42,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/stefanspringer1/PipelineExtensionsForSwiftXML.git",
       "state" : {
-        "revision" : "602c6f52bf32a5584e3053ce76c1f62ddf6098ee",
-        "version" : "0.0.1"
+        "revision" : "f68e7acf2a6300f203e34ad7cd862a13af00e997",
+        "version" : "0.0.2"
       }
     },
     {
