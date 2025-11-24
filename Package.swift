@@ -22,7 +22,7 @@ let package = Package(
         .package(url: "https://github.com/stefanspringer1/Pipeline.git", from: "1.0.36"),
         .package(url: "https://github.com/stefanspringer1/PipelineLogging.git", from: "0.0.9"),
         .package(url: "https://github.com/stefanspringer1/SwiftXML.git", from: "12.0.6"),
-        .package(url: "https://github.com/stefanspringer1/PipelineExtensionsForSwiftXML.git", from: "0.0.2"),
+        .package(url: "https://github.com/stefanspringer1/PipelineExtensionsForSwiftXML.git", from: "0.0.3"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
