@@ -1,6 +1,15 @@
 {
-  "originHash" : "3129aac239b6673a7570c1892babb3b4779b95ec39b12bef7de403a6db1fa1c1",
+  "originHash" : "c38a80fb248d2eff4ec9a097ba75d61e6b995d605ab01f0ddff5a9951153e92f",
   "pins" : [
+    {
+      "identity" : "basiclogging",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stefanspringer1/BasicLogging.git",
+      "state" : {
+        "revision" : "43d9aa4023eda5fd4fc91311b88cc5569230f229",
+        "version" : "0.0.14"
+      }
+    },
     {
       "identity" : "localization",
       "kind" : "remoteSourceControl",
@@ -11,21 +20,12 @@
       }
     },
     {
-      "identity" : "logging",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/stefanspringer1/Logging.git",
-      "state" : {
-        "revision" : "dc727e834e3485c9e3cfa66e791e9b9dbf11ad30",
-        "version" : "0.0.11"
-      }
-    },
-    {
       "identity" : "logginginterfaces",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/stefanspringer1/LoggingInterfaces.git",
       "state" : {
-        "revision" : "39b7c41d72bf8c236e8c846b5ccf02025759b6a5",
-        "version" : "0.0.4"
+        "revision" : "534b864778444ccc0ac561a84c36baa339cded2e",
+        "version" : "0.0.5"
       }
     },
     {
@@ -33,8 +33,17 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/stefanspringer1/Pipeline.git",
       "state" : {
-        "revision" : "b7571eed23fef270e9a5f558003d8d789f32ab9e",
-        "version" : "1.0.36"
+        "revision" : "8e5162d1994dc066023aed8092bf58e6c559d464",
+        "version" : "1.0.37"
+      }
+    },
+    {
+      "identity" : "pipelinebasiclogging",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stefanspringer1/PipelineBasicLogging.git",
+      "state" : {
+        "revision" : "fd1e0aa796323164bdf9b6371de53187214dd170",
+        "version" : "0.0.1"
       }
     },
     {
@@ -47,12 +56,12 @@
       }
     },
     {
-      "identity" : "pipelinelogging",
+      "identity" : "pipelineloggingbinding",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/stefanspringer1/PipelineLogging.git",
+      "location" : "https://github.com/stefanspringer1/PipelineLoggingBinding.git",
       "state" : {
-        "revision" : "f02e3ca4157d65384448e5992d765354b005e030",
-        "version" : "0.0.9"
+        "revision" : "df8158cb87365eb951091cf682161ec69d9b469f",
+        "version" : "0.0.1"
       }
     },
     {
